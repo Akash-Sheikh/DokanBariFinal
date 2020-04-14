@@ -1,0 +1,15 @@
+
+
+#body{
+    min-height: 400px;
+    margin-top: -2%;
+    background-color: #e6e2de;
+}
+
+#footer{
+	min-height: 100px;
+    margin-top: 3%;
+    background-color: #666699;
+}
+
+
